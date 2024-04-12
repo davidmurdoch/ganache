@@ -1,9 +1,10 @@
 node_modules
-TODO
-*.log
-.eslintrc.js
-.tern-project
 .DS_Store
-.tern-port
 .vscode
-yarn.lock
+.nyc_output
+lerna-debug.log
+npm-debug.log
+packages/**/*/lib
+coverage
+dist/
+typings/
